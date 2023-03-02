@@ -6,7 +6,7 @@
 Feel free to contact me and if you wanna be friends then you can email me to ask me for my discord (since I might change it since I wrote this)
 
 Total time spent programming since September 2022:
-<a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
+ <a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
 
 <a><img src="https://wakatime.com/share/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed/4d2d9a3f-4776-4760-93c9-a5b0eabdf77a.svg"></a>
 
