@@ -3,6 +3,7 @@
 - 📫 How to reach me: cedricjboucher@gmail.com
 
 Total time spent programming since September 2022: (I started programming long before this, though)
+
 (time spent programming in software other than VS code or while not logged in, i.e. MATLAB, is not tracked)
 
 <a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
