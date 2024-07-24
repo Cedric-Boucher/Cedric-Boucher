@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D3Zyre (Cedric Boucher)
 - I'm @425525 on discord! (display name: 42)
-- 🌱 I’m currently in my third year of Computer Software Engineering Coop at the University of Alberta
-- 📫 How to reach me: cedricjboucher@gmail.com
+- 🌱 I’m currently in my fourth year of Computer Software Engineering Coop at the University of Alberta
+- 📫 How to reach me: cedricjboucher@proton.me
 
 Total time spent programming since September 2022: (I started programming long before this, though)
 
