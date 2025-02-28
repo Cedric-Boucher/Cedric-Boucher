@@ -7,4 +7,6 @@ Total time spent programming in Visual Studio Code since September 2022:
 
 <a><img src="https://wakatime.com/share/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed/4d2d9a3f-4776-4760-93c9-a5b0eabdf77a.svg"></a>
 
+<figure><embed src="https://wakatime.com/share/@D3Zyre/0b8a32b0-3a5a-44d9-98c4-695e10144738.svg"></embed></figure>
+
 Updated August 27 2024
