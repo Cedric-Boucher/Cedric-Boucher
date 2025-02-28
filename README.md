@@ -12,4 +12,7 @@
 ## Languages by Time Used in Visual Studio Code Since September 2022
 <a><img src="https://wakatime.com/share/@D3Zyre/86e42073-f660-4157-b2b2-0e5e9a48e4a5.svg"></a>
 
+## Languages by Time Used in Visual Studio Code in the Last Year
+<a><img src="https://wakatime.com/share/@D3Zyre/91b262d3-2439-44b0-bf48-1f2e3a6332d0.svg"></a>
+
 Updated 2025-02-28
