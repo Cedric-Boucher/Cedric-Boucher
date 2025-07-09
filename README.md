@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m Cedric Boucher
-- 🌱 I’m currently in my fourth year of Computer Software Engineering Coop at the University of Alberta
+- 🌱 I’m currently in my fifth year of Computer Software Engineering Coop at the University of Alberta
 - 📫 How to reach me: cedricjboucher@proton.me
 
 ## Total Time Spent Programming in Visual Studio Code Since September 2022
@@ -15,4 +15,4 @@
 ## Languages by Time Used in Visual Studio Code in the Last Year
 <a><img src="https://wakatime.com/share/@Cedric_Boucher/43bfb6ea-f7b4-44c8-b874-9e326d703714.svg"></a>
 
-Updated 2025-02-28
+Updated 2025-07-08
