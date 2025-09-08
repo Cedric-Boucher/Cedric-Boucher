@@ -15,4 +15,5 @@
 ## Languages by Time Used in Visual Studio Code in the Last Year
 <a><img src="https://wakatime.com/share/@Cedric_Boucher/43bfb6ea-f7b4-44c8-b874-9e326d703714.svg"></a>
 
-Updated 2025-07-08
+## Operating Systems by Time Used in Visual Studio Code Since September 2022
+<a><img src="https://wakatime.com/share/@Cedric_Boucher/c94131d9-2fc7-4275-be83-ed1935fc6d5c.svg"></a>
