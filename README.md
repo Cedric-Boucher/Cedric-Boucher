@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m Cedric Boucher
-- 🌱 I’m currently in my fifth year of Computer Software Engineering Coop at the University of Alberta
+- 🌱 I’m a fresh graduate of Computer Software Engineering Coop at the University of Alberta
 - 📫 How to reach me: cedricjboucher@proton.me
 
 ## Total Time Spent Programming in Visual Studio Code Since September 2022
