@@ -1,11 +1,15 @@
 # About Me
 
 - My name is Cedric Boucher
+- I am bilingual (English / French) and fluent in both languages
 - I am a fresh graduate of Computer Software Engineering Coop at the University of Alberta
 - I am looking for work and available to work full time immediately
 - I am located in Edmonton, Alberta, Canada
 - My email address is cedricjboucher@proton.me
 - My LinkedIn page is [in/cedric-boucher/](https://www.linkedin.com/in/cedric-boucher/)
+- My favourite programming languages are Rust, Python, and Svelte
+- I highly value risk management and building redundancy and safety into every aspect of software: designing systems architecture, DevOps tools and workflows, strict typing and enforced static checks, and testing
+- I am proficient with secure self-hosted infrastructure
 
 Time spent writing code since 2022-09-01: <a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
 
