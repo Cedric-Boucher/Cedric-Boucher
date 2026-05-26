@@ -11,6 +11,10 @@
 - I highly value risk management and building redundancy and safety into every aspect of software: designing systems architecture, DevOps tools and workflows, strict typing and enforced static checks, and testing
 - I am proficient with secure self-hosted infrastructure
 
+High-level home lab architecture:
+
+![High-level architecture of my homelab](https://github.com/Cedric-Boucher/Cedric-Boucher/blob/3cfdb571f207f94eb180a53aac4634a17848d66f/Home%20Lab%20Architecture%20Diagram.svg)
+
 Time spent writing code since 2022-09-01: <a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
 
 | Languages Used over All Time and Past Year | Coding Activity and Operating Systems Used |
