@@ -13,7 +13,7 @@
 
 High-level home lab architecture:
 
-![High-level architecture of my homelab](https://github.com/Cedric-Boucher/Cedric-Boucher/blob/3cfdb571f207f94eb180a53aac4634a17848d66f/Home%20Lab%20Architecture%20Diagram.svg)
+![High-level architecture of my homelab](https://github.com/Cedric-Boucher/Cedric-Boucher/blob/8cd809ec26cbc0e75e514cb901b6286f04c70b0e/Home%20Lab%20Architecture%20Diagram.svg)
 
 Time spent writing code since 2022-09-01: <a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
 
