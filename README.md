@@ -1,7 +1,10 @@
 # About Me
-- 👋 Hi, I’m Cedric Boucher
-- 🌱 I’m a fresh graduate of Computer Software Engineering Coop at the University of Alberta
-- 📫 How to reach me: cedricjboucher@proton.me
+
+- My name is Cedric Boucher
+- I am a fresh graduate of Computer Software Engineering Coop at the University of Alberta
+- I am looking for work and available to work full time immediately
+- I am located in Edmonton, Alberta, Canada
+- My email address is cedricjboucher@proton.me
 
 ## Total Time Spent Programming in Visual Studio Code Since September 2022
 <a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
