@@ -5,6 +5,7 @@
 - I am looking for work and available to work full time immediately
 - I am located in Edmonton, Alberta, Canada
 - My email address is cedricjboucher@proton.me
+- My LinkedIn page is [in/cedric-boucher/](https://www.linkedin.com/in/cedric-boucher/)
 
 ## Total Time Spent Programming in Visual Studio Code Since September 2022
 <a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
