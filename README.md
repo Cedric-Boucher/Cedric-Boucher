@@ -13,11 +13,11 @@
 
 High-level home lab architecture:
 
-![High-level architecture of my homelab](https://github.com/Cedric-Boucher/Cedric-Boucher/Home_Lab_Architecture_Diagram.svg)
+![High-level architecture of my homelab](./Home_Lab_Architecture_Diagram.svg)
 
 Home network architecture:
 
-![Home network architecture](https://github.com/Cedric-Boucher/Cedric-Boucher/Network_Architecture.svg)
+![Home network architecture](./Network_Architecture.svg)
 
 Time spent writing code since 2022-09-01: <a href="https://wakatime.com/@bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed"><img src="https://wakatime.com/badge/user/bac6b0f1-e005-4a6c-b036-ab6b96c4c0ed.svg" alt="Total time coded since Sep 8 2022" /></a>
 
