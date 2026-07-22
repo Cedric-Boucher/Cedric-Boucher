@@ -2,13 +2,13 @@
 
 - My name is Cedric Boucher
 - I am bilingual (English / French) and fluent in both languages
-- I am a fresh graduate of Computer Software Engineering Coop at the University of Alberta
+- I am a recent graduate of Computer Software Engineering Coop at the University of Alberta
 - I am looking for work and available to work full time immediately
 - I am located in Edmonton, Alberta, Canada
 - My email address is cedricjboucher@proton.me
 - My LinkedIn page is [in/cedric-boucher/](https://www.linkedin.com/in/cedric-boucher/)
 - My favourite programming languages are Rust, Python, and Svelte
-- I highly value risk management and building redundancy and safety into every aspect of software: designing systems architecture, DevOps tools and workflows, strict typing and enforced static checks, and testing
+- I highly value risk management and building redundancy and safety into every aspect of software: designing systems architecture, DevOps tools and workflows, strict typing, enforced static checks, and testing
 - I am proficient with secure self-hosted infrastructure
 
 High-level home lab architecture:
